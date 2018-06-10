@@ -1,1 +1,1 @@
-# House-of-Trick
+# House-of-Tricks
